@@ -1,51 +1,61 @@
 body{
-    background: #eee;
-    color: #333;
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-family: sans-serif;
     font-size:15px;
-   }
-   #wrapper{
-    background: #fff;
+}
+
+wrapper{
+    background: rgba(243, 5, 5, 0.959);
     width: 1100px;
     margin: 20px auto;
-   }
-   #wrapper header{
-    background: #232323;
+}
+
+wrapper header{
+    background: #000000;
     padding: 20px;
-   }
-   #wrapper header hgroup{
+}
+
+wrapper header hgroup{
     float: left;
-    color: #fff;
-   }
-   #wrapper header nav{
+    color: rgb(255, 255, 0);
+}
+
+wrapper header nav{
     float: right;
     margin-top: 50px;
-   }
-   #wrapper header nav ul{
+}
+
+wrapper header nav ul{
     padding: 0;
     margin: 0;
-   }
-   #wrapper header nav ul li{
+}
+
+wrapper header nav ul li{
     float: left;
     list-style: none;
-   }
-   #wrapper header nav ul li a{
+}
+
+wrapper header nav ul li a{
     padding: 15px;
-    color: #fff;
+    color: rgb(255, 255, 255);
     text-decoration: none;
-   }
-   .clear{
+}
+
+.clear{
     clear: both;
-   }
-   footer{
-    background: #232323;
+}
+
+footer{
+    background: #0099ff;
     padding: 20px;
-   }
-   footer a{
-    color: #fff;
+}
+
+footer a{
+    color: rgb(0, 0, 0);
     text-decoration: none;
-   }
-   section{
+}
+
+section{
     padding: 20px;
-   }
-   
+}
