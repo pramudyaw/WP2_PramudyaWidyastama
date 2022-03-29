@@ -5,38 +5,38 @@ body{
     font-size:15px;
 }
 
-wrapper{
-    background: rgba(243, 5, 5, 0.959);
+#wrapper{
+    background: rgba(255, 255, 255, 0.959);
     width: 1100px;
     margin: 20px auto;
 }
 
-wrapper header{
+#wrapper header{
     background: #000000;
     padding: 20px;
 }
 
-wrapper header hgroup{
+#wrapper header hgroup{
     float: left;
     color: rgb(255, 255, 0);
 }
 
-wrapper header nav{
+#wrapper header nav{
     float: right;
     margin-top: 50px;
 }
 
-wrapper header nav ul{
+#wrapper header nav ul{
     padding: 0;
     margin: 0;
 }
 
-wrapper header nav ul li{
+#wrapper header nav ul li{
     float: left;
     list-style: none;
 }
 
-wrapper header nav ul li a{
+#wrapper header nav ul li a{
     padding: 15px;
     color: rgb(255, 255, 255);
     text-decoration: none;
@@ -47,12 +47,12 @@ wrapper header nav ul li a{
 }
 
 footer{
-    background: #3cff00;
+    background: #000000;
     padding: 20px;
 }
 
 footer a{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 0);
     text-decoration: none;
 }
 
